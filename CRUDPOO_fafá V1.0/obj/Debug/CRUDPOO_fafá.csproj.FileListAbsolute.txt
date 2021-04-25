@@ -1,0 +1,10 @@
+C:\programas\CRUDPOO_fafá\bin\Debug\CRUDPOO_fafá.exe.config
+C:\programas\CRUDPOO_fafá\bin\Debug\CRUDPOO_fafá.exe
+C:\programas\CRUDPOO_fafá\bin\Debug\CRUDPOO_fafá.pdb
+C:\programas\CRUDPOO_fafá\obj\Debug\CRUDPOO_fafá.csprojAssemblyReference.cache
+C:\programas\CRUDPOO_fafá\obj\Debug\CRUDPOO_fafá.CRUDPOO.resources
+C:\programas\CRUDPOO_fafá\obj\Debug\CRUDPOO_fafá.Properties.Resources.resources
+C:\programas\CRUDPOO_fafá\obj\Debug\CRUDPOO_fafá.csproj.GenerateResource.cache
+C:\programas\CRUDPOO_fafá\obj\Debug\CRUDPOO_fafá.csproj.CoreCompileInputs.cache
+C:\programas\CRUDPOO_fafá\obj\Debug\CRUDPOO_fafá.exe
+C:\programas\CRUDPOO_fafá\obj\Debug\CRUDPOO_fafá.pdb
